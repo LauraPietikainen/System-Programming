@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab4_2Thread</string>
+    <string name="hello_world">hello_world</string>
+    <string name="button_text">button_text</string>
+</resources>
